@@ -1,0 +1,8 @@
+datasets>=2.19,<4
+sentence-transformers>=3.0,<4
+faiss-cpu>=1.8,<2
+numpy>=1.26,<3
+requests>=2.31,<3
+streamlit>=1.39,<2
+networkx>=3.2,<4
+pandas>=2.2,<4
