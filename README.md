@@ -37,7 +37,6 @@ python run_experiment.py --seed 20261022 --max-bridge-scan 1000 --context-tokens
 - `results.csv` — one Vector and one Graph row per question.
 - `report.md` — vault topology, aggregate metric table, and per-question retrieval comparison.
 
-The first run downloads the public dataset and MiniLM model to standard local caches. Subsequent runs reuse them. No run transmits notes, questions, embeddings, or evaluation results to an external inference/database service.
 
 ## A/B/C interactive benchmark
 
